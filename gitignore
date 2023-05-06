@@ -1,0 +1,6 @@
+.DS_store
+.vscode/ (/ for folder)
+authentication.js
+node_models
+notes/
+**/* todo.md
